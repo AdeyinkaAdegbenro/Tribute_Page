@@ -1,0 +1,1 @@
+This is a simple responsive tribute page to JOse Mourinho. Visit https://adeyinkaadegbenro.github.io/Tribute_Page/ to view the live page
